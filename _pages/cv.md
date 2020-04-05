@@ -40,19 +40,19 @@ Education
   
 Skills
 ======
-| Category           | Skills                                                       |
-|-------------------:|-------------------------------------------------------------|
-| Programming:       | C, C++, Python, MATLAB/Octave                                |
-| Parallelization:   | CUDA, pthreads, MPI, OpenMP                                  |
-| Libraries:         | OpenCV, PCL, Fuzzylite, ACADO, OMPL, NumPy, SciPy, Matplotlib|
-| Deep Learning:     | PyTorch, TensorfFlow, Keras                                  |
-| Robotics:          | ROS, ROS2, Gazebo, STDR                                      |
-| Tools:             | Git, Vim, CMake, Doxygen, GitlabCI, Docker, Snapcraft        |
-| OS:                | Ubuntu, Arch-Linux, Windows                                  |
-| Embedded:          | Arduino, Raspberry Pi, Odroid, Atmel AVR                     |
-| Design:            | Blender, Camtasia, Inkscape, Paint.net, Eagle CAD            |
-| Office Tools:      | LATEX, Microsoft Office Word/PowerPoint/Visio                |
-| Misc.:             | 3D Modelling, Electronics, PCB Manufacturing, Soldering      |
+|                    |                                                        |
+| -----------------  | ------------------------------------------------------------- |
+| Programming:       | C, C++, Python, MATLAB/Octave                                 |
+| Parallelization:   | CUDA, pthreads, MPI, OpenMP                                   |
+| Libraries:         | OpenCV, PCL, Fuzzylite, ACADO, OMPL, NumPy, SciPy, Matplotlib |
+| Deep Learning:     | PyTorch, TensorfFlow, Keras                                   |
+| Robotics:          | ROS, ROS2, Gazebo, STDR                                       |
+| Tools:             | Git, Vim, CMake, Doxygen, GitlabCI, Docker, Snapcraft         |
+| OS:                | Ubuntu, Arch-Linux, Windows                                   |
+| Embedded:          | Arduino, Raspberry Pi, Odroid, Atmel AVR                      |
+| Design:            | Blender, Camtasia, Inkscape, Paint.net, Eagle CAD             |
+| Office Tools:      | LATEX, Microsoft Office Word/PowerPoint/Visio                 |
+| Misc.:             | 3D Modelling, Electronics, PCB Manufacturing, Soldering       |
 
 Publications
 ======
