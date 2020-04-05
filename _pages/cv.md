@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download pdf version of my CV](https://github.com/gkouros/cv/raw/master/cv.pdf)
+[Download my LaTeX-based CV](https://gkouros.github.io/files/cv.pdf)
 
 Work experience
 ======
@@ -40,8 +40,8 @@ Education
   
 Skills
 ======
-|                    |                                                              |
-|-------------------:|--------------------------------------------------------------|
+| Category           | Skills                                                       |
+|-------------------:|-------------------------------------------------------------|
 | Programming:       | C, C++, Python, MATLAB/Octave                                |
 | Parallelization:   | CUDA, pthreads, MPI, OpenMP                                  |
 | Libraries:         | OpenCV, PCL, Fuzzylite, ACADO, OMPL, NumPy, SciPy, Matplotlib|

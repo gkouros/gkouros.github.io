@@ -18,8 +18,5 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "CV2"
-    url: /files/cv.pdf
-
   - title: "Guide"
     url: /markdown/
