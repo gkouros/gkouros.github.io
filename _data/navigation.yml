@@ -19,7 +19,7 @@ main:
     url: /cv/
 
   - title: "CV2"
-    url: https://github.com/gkouros/cv/blob/master/cv.pdf
+    url: /files/cv.pdf
 
   - title: "Guide"
     url: /markdown/
