@@ -40,8 +40,9 @@ Education
   
 Skills
 ======
-|                    |                                                        |
-| -----------------  | ------------------------------------------------------------- |
+
+| Category           | Skills                                                        |
+| ------------------ | ------------------------------------------------------------- |
 | Programming:       | C, C++, Python, MATLAB/Octave                                 |
 | Parallelization:   | CUDA, pthreads, MPI, OpenMP                                   |
 | Libraries:         | OpenCV, PCL, Fuzzylite, ACADO, OMPL, NumPy, SciPy, Matplotlib |
