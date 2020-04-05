@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title "Sitemap"
-    url: /sitemap/
+  # - title "Sitemap"
+    # url: /sitemap/
 
   - title: "Publications"
     url: /publications/
