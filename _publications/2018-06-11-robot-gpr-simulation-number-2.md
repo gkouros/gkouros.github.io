@@ -6,10 +6,11 @@ excerpt: 'This paper is about simulating a ground penetrating radar in Gazebo an
 date: 2018-06-11
 venue: '2018 IEEE International Conference on Simulation, Modeling, and Programming for Autonomous Robots (SIMPAR)'
 paperurl: 'https://ieeexplore.ieee.org/document/8376265'
-citation: 'G. Kouros, C. Psarras, I. Kostavelis, D. Giakoumis and D. Tzovaras, &quot;Surface/subsurface mapping with an integrated rover-GPR system: A simulation approach&quot;, <i>2018 IEEE International Conference on Simulation, Modeling, and Programming for Autonomous Robots (SIMPAR), Brisbane, QLD, 2018, pp. 15-22.<i>'
+citation: 'G. Kouros, C. Psarras, I. Kostavelis, D. Giakoumis and D. Tzovaras, Surface/subsurface mapping with an integrated rover-GPR system: A simulation approach, 2018 IEEE International Conference on Simulation, Modeling, and Programming for Autonomous Robots (SIMPAR), Brisbane, QLD, 2018, pp. 15-22.'
+
 ---
 This paper is about simulating a ground penetrating radar in Gazebo and performing subsufurface mapping.
 
 [Download paper here](https://ieeexplore.ieee.org/document/8376265)
 
-Recommended citation: G. Kouros, C. Psarras, I. Kostavelis, D. Giakoumis and D. Tzovaras, &quot;Surface/subsurface mapping with an integrated rover-GPR system: A simulation approach&quot;, <i>2018 IEEE International Conference on Simulation, Modeling, and Programming for Autonomous Robots (SIMPAR), Brisbane, QLD, 2018, pp. 15-22.<i>
+Recommended citation: G. Kouros, C. Psarras, I. Kostavelis, D. Giakoumis and D. Tzovaras, Surface/subsurface mapping with an integrated rover-GPR system: A simulation approach, 2018 IEEE International Conference on Simulation, Modeling, and Programming for Autonomous Robots (SIMPAR), Brisbane, QLD, 2018, pp. 15-22.
