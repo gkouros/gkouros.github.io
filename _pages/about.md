@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About me
-========
 I am a PhD candidate at the PSI Lab of KU Leuven, Belgium, supervised by [Prof. Tinne Tuytelaars](https://www.esat.kuleuven.be/psi/TT) and [Dr. Minye Wu](https://wuminye.github.io/). My research focuses on neural rendering and inverse graphics, with an emphasis on physically grounded inverse rendering for challenging reflectance, especially glossy and specular appearance. I work at the intersection of computer vision, computer graphics, and optimization, developing practical pipelines that translate research outputs into usable assets for downstream graphics and AR/VR workflows.
 
 Before joining PSI, I obtained my Diploma (integrated Bachelor’s and Master’s) in Electrical and Computer Engineering from Aristotle University of Thessaloniki (AuTH), Greece, and an Advanced Master of Artificial Intelligence from KU Leuven. Between my studies, I worked as a research assistant at [ITI](https://www.iti.gr/iti/en/home/), [CERTH](https://www.certh.gr/root.en.aspx) in Thessaloniki, Greece, and later as an Industry 4.0 consultant at [Kapernikov](https://kapernikov.com/) in Brussels, Belgium.
@@ -22,7 +20,7 @@ Projects
 
   <a href="https://gkouros.github.io/SpecGlossGS/" class="ns-project-link">
     <div class="ns-project">
-        <img src="projects/images/specglossgs.png" alt="SpecGloss-GS">
+        <img src="/images/specglossgs.png" alt="SpecGloss-GS">
         <div>
             <div class="ns-project-title">Spec-Gloss Surfels and Normal-Diffuse Priors for Relightable Glossy Objects</div>
             <div class="ns-project-description">SpecGloss-GS effectively decouples geometry, materials, and illumination for more accurate relighting and scene editing of glossy objects.</div>
@@ -33,7 +31,7 @@ Projects
 
   <a href="https://gkouros.github.io/RGS-DR/" class="ns-project-link">
     <div class="ns-project">
-        <img src="projects/images/rgsdr.png" alt="RGS-DR">
+        <img src="/images/rgsdr.png" alt="RGS-DR">
         <div>
             <div class="ns-project-title"></div>
             <div class="ns-project-description">RGS-DR uses 2DGS with deferred shading, split-sum IBL plus an image-space residual to sharpen speculars and enable relighting and scene editing.</div>
@@ -44,7 +42,7 @@ Projects
 
   <a href="https://openaccess.thecvf.com/content/CVPR2024W/NRI/html/Kouros_Unveiling_the_Ambiguity_in_Neural_Inverse_Rendering_A_Parameter_Compensation_CVPRW_2024_paper.html" class="ns-project-link">
     <div class="ns-project">
-        <img src="projects/images/unveiling.png" alt="UnveilingAmbiguity">
+        <img src="/images/unveiling.png" alt="UnveilingAmbiguity">
         <div>
             <div class="ns-project-title">Unveiling the Ambiguity in Neural Inverse Rendering: A Parameter Compensation Analysis</div>
             <div class="ns-project-description">A study of the inherent ambiguity of neural inverse rendering and potential research directions.</div>
@@ -56,7 +54,7 @@ Projects
 
   <a href="">
     <div class="ns-project">
-        <img src="projects/images/refdvgo.png" alt="Ref-DVGO">
+        <img src="/images/refdvgo.png" alt="Ref-DVGO">
         <div>
             <div class="ns-project-title">Ref-DVGO: Reflection-Aware Direct Voxel Grid Optimization for an Improved Quality-Efficiency Trade-Off in Reflective Scene Reconstruction</div>
             <div class="ns-project-description">Improves the quality-efficiency trade-off for neural rendering of glossy objects by combining an efficient voxelized representation with a reflection direction reparameterization.</div>
