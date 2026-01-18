@@ -46,7 +46,8 @@ Projects
         <div>
             <div class="ns-project-title">Unveiling the Ambiguity in Neural Inverse Rendering: A Parameter Compensation Analysis</div>
             <div class="ns-project-description">A study of the inherent ambiguity of neural inverse rendering and potential research directions.</div>
-            <div class="ns-project-description"><a href="https://openaccess.thecvf.com/CVPR2024_workshops/NRI">CVPR 2024 NRI Workshop</a></div>
+            <!-- <div class="ns-project-description"><a href="https://openaccess.thecvf.com/CVPR2024_workshops/NRI">CVPR 2024 NRI Workshop</a></div> -->
+            <div class="ns-project-description">CVPR 2024 NRI Workshop</div>
         </div>
     </div>
   </a>
@@ -58,7 +59,8 @@ Projects
         <div>
             <div class="ns-project-title">Ref-DVGO: Reflection-Aware Direct Voxel Grid Optimization for an Improved Quality-Efficiency Trade-Off in Reflective Scene Reconstruction</div>
             <div class="ns-project-description">Improves the quality-efficiency trade-off for neural rendering of glossy objects by combining an efficient voxelized representation with a reflection direction reparameterization.</div>
-            <div class="ns-project-description"><a href="https://sites.google.com/view/iccv23trickyworkshop">ICCV 2023 TRICKY WORKSHOP</a></div>
+            <div class="ns-project-description">ICCV 2023 TRICKY Workshop</div>
+            <!-- <div class="ns-project-description"><a href="https://sites.google.com/view/iccv23trickyworkshop">ICCV 2023 TRICKY WORKSHOP</a></div> -->
         </div>
     </div>
   </a>
