@@ -53,9 +53,9 @@ Projects
   </a>
 
 
-  <a href="">
+  <a href="https://arxiv.org/abs/2308.08530">
     <div class="ns-project">
-        <img src="/images/refdvgo.png" alt="Ref-DVGO" class="ns-project-link">
+        <img src="/images/refdvgo.png" alt="Ref-DVGO">
         <div>
             <div class="ns-project-title">Ref-DVGO: Reflection-Aware Direct Voxel Grid Optimization for an Improved Quality-Efficiency Trade-Off in Reflective Scene Reconstruction</div>
             <div class="ns-project-description">Improves the quality-efficiency trade-off for neural rendering of glossy objects by combining an efficient voxelized representation with a reflection direction reparameterization.</div>
