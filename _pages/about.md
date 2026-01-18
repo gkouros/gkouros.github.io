@@ -43,10 +43,10 @@ Projects
 
   <a href="https://wuminye.github.io/projects/TeTriRF/" class="ns-project-link">
     <div class="ns-project">
-        <img src="/images/TeTriRF.png" alt="TeTriRF">
+        <img src="/images/TeTriRF.jpg" alt="TeTriRF">
         <div>
-            <div class="ns-project-title"></div>
-            <div class="ns-project-description">TeTriRF: Temporal Tri-Plane Radiance Fields for Efficient Free-Viewpoint Video</div>
+            <div class="ns-project-title">TeTriRF: Temporal Tri-Plane Radiance Fields for Efficient Free-Viewpoint Video</div>
+            <div class="ns-project-description">TeTriRF compresses free-viewpoint dynamic scenes by codec-friendly tri-plane voxel representations.</div>
             <div class="ns-project-description">Minye Wu, Zehao Wang, Georgios Kouros, Tinne Tuytelaars</div>
             <div class="ns-project-description">CVPR 2024</div>
         </div>
