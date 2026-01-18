@@ -40,7 +40,7 @@ Projects
     </div>
   </a>
 
-  <a href="https://openaccess.thecvf.com/content/CVPR2024W/NRI/html/Kouros_Unveiling_the_Ambiguity_in_Neural_Inverse_Rendering_A_Parameter_Compensation_CVPRW_2024_paper.html" class="ns-project-link" class="ns-project-link">
+  <a href="https://openaccess.thecvf.com/content/CVPR2024W/NRI/html/Kouros_Unveiling_the_Ambiguity_in_Neural_Inverse_Rendering_A_Parameter_Compensation_CVPRW_2024_paper.html" class="ns-project-link">
     <div class="ns-project">
         <img src="/images/unveiling.png" alt="UnveilingAmbiguity">
         <div>
@@ -54,6 +54,7 @@ Projects
 
 
   <a href="https://arxiv.org/abs/2308.08530" class="ns-project-link">
+    <div class="ns-project">
         <img src="/images/refdvgo.png" alt="Ref-DVGO">
         <div>
             <div class="ns-project-title">Ref-DVGO: Reflection-Aware Direct Voxel Grid Optimization for an Improved Quality-Efficiency Trade-Off in Reflective Scene Reconstruction</div>
