@@ -81,7 +81,7 @@ Projects
     </div>
   </a>
 
-  <a href="" class="ns-project-link">
+  <a href="https://bmvc2022.mpi-inf.mpg.de/26/" class="ns-project-link">
     <div class="ns-project">
         <img src="/images/bmvc.png" alt="contrastive-pose-retrieval">
         <div>
