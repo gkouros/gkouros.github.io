@@ -34,9 +34,35 @@
     margin-bottom: 5px;
 }
 
+.ns-project-meta { display: flex; flex-direction: column; gap: 6px; }
+
 .ns-project-description {
     font-size: 16px;
     color: #666;
+}
+
+.ns-project-tagline {
+  font-size: 0.95rem;
+  line-height: 1.35;
+  color: #333;
+}
+
+.ns-project-authors {
+  font-size: 0.88rem;
+  color: #666;
+}
+
+.ns-project-venue {
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #444;
+  display: inline-block;
+  width: fit-content;
+  padding: 2px 8px;
+  border: 1px solid rgba(0,0,0,0.15);
+  border-radius: 999px;
 }
 
 .ns-project-container .ns-project-link,
