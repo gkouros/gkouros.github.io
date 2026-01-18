@@ -33,7 +33,7 @@ Projects
     <div class="ns-project">
         <img src="/images/rgsdr.png" alt="RGS-DR">
         <div>
-            <div class="ns-project-title"></div>
+            <div class="ns-project-title">RGS-DR: Deferred Reflections and Residual Shading in 2D Gaussian Splatting</div>
             <div class="ns-project-description">RGS-DR uses 2DGS with deferred shading, split-sum IBL plus an image-space residual to sharpen speculars and enable relighting and scene editing.</div>
             <div class="ns-project-description">3DV 2026</div>
         </div>
