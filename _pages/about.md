@@ -35,10 +35,24 @@ Projects
         <div>
             <div class="ns-project-title">RGS-DR: Deferred Reflections and Residual Shading in 2D Gaussian Splatting</div>
             <div class="ns-project-description">RGS-DR uses 2DGS with deferred shading, split-sum IBL plus an image-space residual to sharpen speculars and enable relighting and scene editing.</div>
+            <div class="ns-project-description">Georgios Kouros, Minye Wu, Tinne Tuytelaars</div>
             <div class="ns-project-description">3DV 2026</div>
         </div>
     </div>
   </a>
+
+  <a href="https://wuminye.github.io/projects/TeTriRF/" class="ns-project-link">
+    <div class="ns-project">
+        <img src="/images/TeTriRF.png" alt="TeTriRF">
+        <div>
+            <div class="ns-project-title"></div>
+            <div class="ns-project-description">TeTriRF: Temporal Tri-Plane Radiance Fields for Efficient Free-Viewpoint Video</div>
+            <div class="ns-project-description">Minye Wu, Zehao Wang, Georgios Kouros, Tinne Tuytelaars</div>
+            <div class="ns-project-description">CVPR 2024</div>
+        </div>
+    </div>
+  </a>
+
 
   <a href="https://openaccess.thecvf.com/content/CVPR2024W/NRI/html/Kouros_Unveiling_the_Ambiguity_in_Neural_Inverse_Rendering_A_Parameter_Compensation_CVPRW_2024_paper.html" class="ns-project-link">
     <div class="ns-project">
@@ -47,6 +61,7 @@ Projects
             <div class="ns-project-title">Unveiling the Ambiguity in Neural Inverse Rendering: A Parameter Compensation Analysis</div>
             <div class="ns-project-description">A study of the inherent ambiguity of neural inverse rendering and potential research directions.</div>
             <!-- <div class="ns-project-description"><a href="https://openaccess.thecvf.com/CVPR2024_workshops/NRI">CVPR 2024 NRI Workshop</a></div> -->
+            <div class="ns-project-description">Georgios Kouros, Minye Wu, Sushruth Nagesh, Xianling Zhang, Tinne Tuytelaars</div>
             <div class="ns-project-description">CVPR 2024 NRI Workshop</div>
         </div>
     </div>
@@ -59,12 +74,24 @@ Projects
         <div>
             <div class="ns-project-title">Ref-DVGO: Reflection-Aware Direct Voxel Grid Optimization for an Improved Quality-Efficiency Trade-Off in Reflective Scene Reconstruction</div>
             <div class="ns-project-description">Improves the quality-efficiency trade-off for neural rendering of glossy objects by combining an efficient voxelized representation with a reflection direction reparameterization.</div>
+            <div class="ns-project-description">Georgios Kouros, Minye Wu, Shubham Shrivastava, Sushruth Nagesh, Punarjay Chakravarty, Tinne Tuytelaars</div>
             <div class="ns-project-description">ICCV 2023 TRICKY Workshop</div>
             <!-- <div class="ns-project-description"><a href="https://sites.google.com/view/iccv23trickyworkshop">ICCV 2023 TRICKY WORKSHOP</a></div> -->
         </div>
     </div>
   </a>
 
+  <a href="" class="ns-project-link">
+    <div class="ns-project">
+        <img src="/images/bmvc.png" alt="contrastive-pose-retrieval">
+        <div>
+            <div class="ns-project-title">Category-Level Pose Retrieval with Contrastive Features Learnt with Occlusion Augmentation</div>
+            <div class="ns-project-description">Category-level pose estimation trained with contrastive RGB-normal features and augmented with occlusion and bounding box augmentation for robustness against occluders and bounding box noise.</div>
+            <div class="ns-project-description">Georgios Kouros, Shubham Shrivastava, Cédric Picron, Sushruth Nagesh, Punarjay Chakravarty, Tinne Tuytelaars</div>
+            <div class="ns-project-description">BMVC 2022</div>
+        </div>
+    </div>
+  </a>
 
 </div>
 
