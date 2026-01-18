@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "George Kouros / Robotics Software Engineer"
+title                    : "George Kouros | PhD Candidate"
 title_separator          : "-"
 name                     : &name "George Kouros"
 description              : &description "personal description"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "George Kouros"
   avatar           : "cv_pic.jpg"
-  bio              : "Robotics Software Engineer"
-  location         : "Brussels, Belgium"
-  employer         : "Kapernikov CVBA"
+  bio              : "PhD Candidate"
+  location         : "Leuven, Belgium"
+  employer         : "KU Leuven"
   googlescholar    : "https://scholar.google.com/citations?user=kEZX1y8AAAAJ&hl=en"
   email            : "george.kouros.ece@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/George_Kouros3"
@@ -237,7 +237,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Brussels # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
