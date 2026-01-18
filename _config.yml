@@ -87,7 +87,7 @@ author:
   employer         : "KU Leuven"
   googlescholar    : "https://scholar.google.com/citations?user=kEZX1y8AAAAJ&hl=en"
   email            : "george.kouros.ece@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/George_Kouros3"
+  researchgate     : #"https://www.researchgate.net/profile/George_Kouros3"
   linkedin         : "gkouros"
   github           : "gkouros"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  orcid            :
+  orcid            : https://orcid.org/0000-0003-2097-3080
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -174,14 +174,15 @@ kramdown:
 
 # Collections
 collections:
+  publications:
+    output: true
+    # permalink: /:collection/:path/
+    permalink: https://scholar.google.com/citations?user=kEZX1y8AAAAJ&hl=en
   teaching:
     output: false
     permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: false
