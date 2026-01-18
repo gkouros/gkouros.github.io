@@ -1,0 +1,80 @@
+/* Add this to your existing CSS file or inside a <style> tag in your HTML */
+
+.ns-project-container {
+    width: 100%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.ns-project {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    display: flex;
+    align-items: center;
+}
+
+.ns-project img {
+    width: 40%; /* Image occupies 40% of the project's width */
+    height: auto; /* Maintain aspect ratio */
+    margin-right: 20px;
+    border-radius: 10px;
+    flex-shrink: 0; /* Prevents the image from shrinking below its width */
+}
+
+.ns-project > div {
+    width: 60%; /* Remaining content occupies 60% of the width */
+}
+
+.ns-project-title {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 5px;
+}
+
+.ns-project-description {
+    font-size: 16px;
+    color: #666;
+}
+
+.ns-project-container .ns-project-link,
+.ns-project-container .ns-project-link:hover,
+.ns-project-container .ns-project-link:visited {
+    text-decoration: none; /* Removes underline from all states */
+    color: inherit; /* Keeps the text color consistent */
+}
+
+.ns-project-container .ns-project-link:hover {
+    text-decoration: none; /* Reiterate removal of underline on hover */
+}
+
+@media (max-width: 868px) {
+    .ns-project-container {
+        width: 95%;
+    }
+
+    .ns-project {
+        flex-direction: column;
+        align-items: start;
+    }
+
+    .ns-project img {
+        width: 100%; /* Full width on smaller screens */
+        margin-bottom: 20px;
+    }
+
+    .ns-project > div {
+        width: 100%; /* Text content takes full width on smaller screens */
+    }
+}
+
+
+
+@media screen and (max-width: 600px) {
+    .column {
+        float: none;
+        width: 100%;
+    }
+}
