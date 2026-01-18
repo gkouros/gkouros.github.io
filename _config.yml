@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "George Kouros | PhD Candidate"
+title                    : "Georgios Kouros | PhD Candidate"
 title_separator          : "-"
-name                     : &name "George Kouros"
+name                     : &name "Georgios Kouros"
 description              : &description "personal description"
 url                      : https://gkouros.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "George Kouros"
+  name             : "Georgios Kouros"
   avatar           : "cv_pic.jpg"
   bio              : "PhD Candidate"
   location         : "Leuven, Belgium"
