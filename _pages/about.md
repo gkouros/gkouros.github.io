@@ -25,7 +25,7 @@ Projects
             <div class="ns-project-title">Spec-Gloss Surfels and Normal-Diffuse Priors for Relightable Glossy Objects</div>
             <div class="ns-project-tagline">SpecGloss-GS effectively decouples geometry, materials, and illumination for more accurate relighting and scene editing of glossy objects.</div>
             <div class="ns-project-authors">Georgios Kouros, Minye Wu, Tinne Tuytelaars</div>
-            <div class="ns-project-venue"> WACV 2026</div>
+            <div class="ns-project-venue">WACV 2026 (oral)</div>
         </div>
     </div>
   </a>
