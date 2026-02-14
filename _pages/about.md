@@ -18,7 +18,7 @@ Projects
 
 <div class="ns-project-container">
 
-  <a href="https://gkouros.github.io/projects/SpecGlossGS/" class="ns-project-link">
+  <a href="https://gkouros.github.io/projects/SpecGloss-GS/" class="ns-project-link">
     <div class="ns-project">
         <img src="/images/specglossgs.png" alt="SpecGloss-GS">
         <div class="ns-project-meta">
