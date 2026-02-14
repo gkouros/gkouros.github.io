@@ -18,7 +18,7 @@ Projects
 
 <div class="ns-project-container">
 
-  <a href="https://gkouros.github.io/SpecGlossGS/" class="ns-project-link">
+  <a href="https://gkouros.github.io/projects/SpecGlossGS/" class="ns-project-link">
     <div class="ns-project">
         <img src="/images/specglossgs.png" alt="SpecGloss-GS">
         <div class="ns-project-meta">
@@ -30,7 +30,7 @@ Projects
     </div>
   </a>
 
-  <a href="https://gkouros.github.io/RGS-DR/" class="ns-project-link">
+  <a href="https://gkouros.github.io/projects/RGS-DR/" class="ns-project-link">
     <div class="ns-project">
         <img src="/images/rgsdr.png" alt="RGS-DR">
         <div class="ns-project-meta">
